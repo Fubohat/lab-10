@@ -6,7 +6,7 @@ int main() {
 	cin >> A;
 	cout << "B=";
 	cin >> B;
-	if ((A > 2) and (B <=3)) {
+	if ((A > 2) && (B <=3)) {
 		cout << "True";
 	}
 	else {
